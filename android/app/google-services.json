@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788942298698",
+    "firebase_url": "https://gintanapp.firebaseio.com",
+    "project_id": "gintanapp",
+    "storage_bucket": "gintanapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788942298698:android:790517da72c13d2760d0b3",
+        "android_client_info": {
+          "package_name": "com.gintanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788942298698-ctjl9rsohi5bg9if9g246gdnf1je9981.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gintanapp",
+            "certificate_hash": "aeb24a1a1d9d2c9d104658a19abd3dee0282e669"
+          }
+        },
+        {
+          "client_id": "788942298698-uaegkcginvoqfils2959avq9ojhu29n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtFm3smV_cXvC0LztDMuWbwH8oS6n5IlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788942298698-p9lis7ig89bvaf57ioh7o5v9fmtotpon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
